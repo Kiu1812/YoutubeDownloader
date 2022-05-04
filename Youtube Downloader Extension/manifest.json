@@ -1,0 +1,11 @@
+{
+    "name": "Youtube Downloader to MP3",
+    "description": "This is a simple Youtube Video Downlaoder to MP3 (or other file extension). See my GitHub for requirements: https://github.com/Kiu1812/YoutubeDownloader",
+    "version": "1.0",    
+    "manifest_version": 3,
+    "permissions": ["tabs"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    }
+}

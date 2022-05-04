@@ -15,9 +15,10 @@ from tkinter import ttk
 import tkinter.filedialog as filedg
 
 
-# I don't know from who I copied this code.
+# I don't know from who I copied this class.
 # But if you're the creator tell me and I'll put you here.
 # Thank you for the code.
+
 # Class to stop a Thread till something happens
 class Waiter():
 
@@ -109,7 +110,8 @@ class App():
         yt_dlp = yt_dlp+'"'
 
         # Get the url but remove till an "&" to not download all the playlist
-        url = url[0:url.find("&")]
+        if url.find("&") != -1:
+            url = url[0:url.find("&")]
 
         # To hide the console when executing the command
         si = subprocess.STARTUPINFO()

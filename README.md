@@ -13,7 +13,7 @@ You don't need a powerfull machine to run this, only Internet Connection
 Optional:
 - Youtube Downloader Chrome Extension (don't published because the requirements of age)
   
-This extension will allow you to download videos with only one click in Chrome
+This extension will allow you to download videos with only one click in Google Chrome
 
 ----------
 ## Installation
@@ -49,4 +49,14 @@ To use the extension you need to have the download server started, then you can 
 ----------
 ## Notes
 
-This program is and will be open-source, you can see and download the code in the file **Youtube_Download.py**
+This program is and will be open-source, you can see and download the code in the file **Youtube_Download.py** for the Python code, and in the folder **Youtube Downloader Extension** for the JS code (extension code)
+
+
+----------
+## Extra Credits
+
+I've also used two external programs to make this work:
+
+yt-dlp: https://github.com/yt-dlp/yt-dlp
+
+ffmpeg: https://ffmpeg.org/
