@@ -15,7 +15,7 @@ Optional:
   
 This extension will allow you to download videos with only one click in Google Chrome
 
-----------
+
 ## Installation
   
 **No installation is required** to run the base app, all comes in a portable version.
@@ -30,7 +30,7 @@ Extension:
 - The extension will now be installed (You can deactivate developer mode if you wish)
 - I recommend pinning the extension with the "pin" button
 
-----------
+
 ## How to use
 
 You just double click the file and it will launch in your taskbar, this app start running automatically the download server.
@@ -46,20 +46,20 @@ Youtube Downloader Extension:
 
 To use the extension you need to have the download server started, then you can just simply click on the extension icon (same as desktop app) and it will start downloading on the directory selected
 
-----------
+
 ## Releases
 
 - [Latest version (1.0)](https://github.com/Kiu1812/YoutubeDownloader/releases/latest)
 
 - [1.0](https://github.com/Kiu1812/YoutubeDownloader/releases/tag/v1.0)
 
-----------
+
 ## Notes
 
 This program is and will be open-source, you can see and download the code in the file **Youtube_Download.py** for the Python code, and in the folder **Youtube Downloader Extension** for the JS code (extension code)
 
 
-----------
+
 ## Extra Credits
 
 I've also used two external programs to make this work:
